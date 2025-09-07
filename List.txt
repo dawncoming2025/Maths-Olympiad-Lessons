@@ -1,0 +1,25 @@
+01 有理数的概念与运算 lesson1.mp4
+02 绝对值 lesson2.mp4
+03 整式的概念与运算 lesson3.mp4
+04 一元一次方程与一次方程组 lesson4.mp4
+05 绝对值和一次方程 lesson5.mp4
+06 一次方程及其应用 lesson6-1.mp4 lesson6-2.mp4
+07 不等式（组）（一） lesson7-1.mp4 lesson7-2.mp4
+08 不等式（组）（二） lesson8.mp4
+09 线段和角（一） lesson9.mp4
+10 线段和角（二） lesson10-1.mp4 lesson10-2.mp4
+11 三角形的边与角 lesson11.mp4
+12 多边形的边与角 lesson12.mp4
+13 平行线的性质与判定 lesson13.mp4
+14 面积问题 lesson14.mp4
+15 逻辑推理 lesson15.mp4
+16 数的整除（一） lesson16.mp4
+17 数的整除（二） lesson17.mp4
+18 数的整除（三） lesson18.mp4
+19 奇数与偶数（一） lesson19.mp4
+20 奇数与偶数（二） lesson20.mp4
+21 质数与合数（一） lesson21.mp4
+22 质数与合数（二） lesson22.mp4
+23 算术基本定理 lesson23.mp4
+24 最大公约数与最小公倍数 lesson24.mp4
+25 同余的概念与性质 lesson25.mp4
